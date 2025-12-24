@@ -1,0 +1,17 @@
+# .NET
+bin/
+obj/
+*.db
+*.sqlite
+
+# Environment
+appsettings.Development.json
+.env
+.env.local
+
+# OS
+.DS_Store
+node_modules/
+.next/
+.env.local
+
